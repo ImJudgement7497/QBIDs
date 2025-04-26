@@ -1,0 +1,14 @@
+potential_image_name = input_stadium_billiard.png
+#function = astroid_a=5_g=250
+#function = cardioid_cartesian_g=250
+#function = circle_g=250
+#shape = square
+#function=cardioid_tests_for_eigenfunctions
+x_start = -9
+x_end = 3
+y_start = -6
+y_end = 6
+grid_size = 150
+
+max_level = 251
+boundary_value = 1e9
